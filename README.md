@@ -1,2 +1,2 @@
 # AudioClassification
-Complete pipeline for audio genre classification
+In this University project we built a complete pipeline for the musical genre recognition from audio signal.
